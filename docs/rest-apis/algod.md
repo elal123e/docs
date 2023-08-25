@@ -2646,6 +2646,7 @@ algod version information.
 |**genesis_hash_b64**  <br>*required*|**Pattern** : `"^(?:[A-Za-z0-9+/]{4})*(?:[A-Za-z0-9+/]{2}==\|[A-Za-z0-9+/]{3}=)?$"`|string (byte)|
 |**genesis_id**  <br>*required*||string|
 |**versions**  <br>*required*||< string > array|
+0
 
 
 
